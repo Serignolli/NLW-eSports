@@ -11,7 +11,7 @@ O site leva a temática eSports que é um tema que cresceu bastante nos últimos
  * CSS
  
  ## Links
- * [Acesse o Site](https://serignolli.github.io/NLW-eSports-Explorer/)
+ * [Acesse o Site do projeto](https://serignolli.github.io/NLW-eSports-Explorer/)
  * [Acesse a plataforma da Rocketseat](https://app.rocketseat.com.br/dashboard)
  * [Acesse meu Linkdin](https://www.linkedin.com/in/gabriel-moreno-serignolli-317518222/)
 
